@@ -1,0 +1,24 @@
+What is pyspark?
+It is the python API for apache spark. Which allow us to write data processing applications that execute on a distributed cluster parallely. 
+
+The Big data Problem?
+Hadoop and mapreduce was invented to solve the big data storage and processing problem. 
+Hadoop is a set of software libraries that are designed to fucntion over a distributed cluster of machines, Mapreduce is a data processing engine. 
+
+The Spark Architecture?
+-> Spark works in a master slave architecture. The master node is referred to as the driver and the slave nodes workers 
+-> A spark session create a spark context which is an entry point to your application.
+-> Spark operations(our data transformations) are executed on worker nodes.
+-> Resourse on worker node and managed by a cluster manager
+
+The resource and cluster manager?
+-> The two main componets of a resource manager are the cluster manager and the worker. 
+-> The cluster manager knows where the workers are located, how much memory and cpu cores each worker has.
+-> When you execute a spark prog. the cluster manager determines how many work nodes will be required, how much RAM and CPY on each worker node to executed program.
+
+The Spark Driver?
+-> It is a central coordinator of spark applications. 
+-> The spark driver interacts with the cluster manager to gifure out which manchines is required to run processing.
+-> The spark driver requests the cluster manager to launch the spark execute to do the processing on worker nodes.
+-> The spark devier creates a spark session (create a spark context) which then executes your spark configurations to allocate the required API's for your application.
+
