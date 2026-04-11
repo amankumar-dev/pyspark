@@ -22,3 +22,14 @@ The Spark Driver?
 -> The spark driver requests the cluster manager to launch the spark execute to do the processing on worker nodes.
 -> The spark devier creates a spark session (create a spark context) which then executes your spark configurations to allocate the required API's for your application.
 
+The Spark Unified?
+-> Apache spark provides multiple data processing components inside one single engine
+-> The spark unifed stack is built on top of a strong foundation known as the spark core. 
+-> The spark core provides all the necessary fuctionality to manage and run distributed applications such as scheduling and fault tollerence. 
+-> The spark modules and components are built on top of spark core. 
+
+Spark core components?
+-> Spark SQL: Designed to work with databse tables and structured file formats such as csv, json, avro, orc,parquet. Can read data intor a dataframe. Can use pure SQL.
+-> Spark structured streaming: Built to write applications for real time stream processing that offers high throughput and is also fault tolerant. 
+-> Spark MLib: Proveds many popular machine learning algorithms out of the box.
+-> Spark Graphx: Graph processing operates on data strcutres which are used to represent real life networks, such as linkedin. 
