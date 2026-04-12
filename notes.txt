@@ -33,3 +33,18 @@ Spark core components?
 -> Spark structured streaming: Built to write applications for real time stream processing that offers high throughput and is also fault tolerant. 
 -> Spark MLib: Proveds many popular machine learning algorithms out of the box.
 -> Spark Graphx: Graph processing operates on data strcutres which are used to represent real life networks, such as linkedin. 
+
+Why we use hadoop?
+We use hadoop for using mapreduce which works parallely in multiple systems and for storing large data in multiple devices.
+
+The Spark Web UI?
+-> A browser dashboard that shows what your spark job is doing.
+-> When we run a spark application, spark automatically starts a small web server (usually on ports 4040) and shows you: http://localhost:4040
+-> It shows :-
+    -> Jobs : How many jobs run / Which one succeed failed / Execution time
+    -> Stages : How spark divided your job internally / DAG / Task breakdown
+    -> Tasks : Duration / Failed Tasks / Shuffle read-write / CPU time
+    -> Storage : Cached RDDs / Dataframes / Memory-usage
+    -> Executors : Memory used / Cores used / Active Tasks
+-> If wwe run multiple sparks apps , ports changes : 4040,4041,4042,...
+

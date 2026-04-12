@@ -1,0 +1,101 @@
+user_id,username,email,age,gender,city,state,signup_date,is_active,account_balance,last_login,device_type,subscription_type
+1,arjun_singh36,arjun_singh36@gmail.com,21,Male,Amritsar,Punjab,2019-02-07,True,43169.45,2023-10-20,Android,Premium
+2,sumit_tiwari15,sumit_tiwari15@gmail.com,44,Male,Ahmedabad,Gujarat,2021-06-29,False,49025.78,2024-01-23,Web,Free
+3,sumit_singh66,sumit_singh66@gmail.com,33,Male,Bhubaneswar,Odisha,2021-11-07,True,46657.23,2023-11-07,Android,Free
+4,rahul_kapoor24,rahul_kapoor24@gmail.com,21,Male,Ahmedabad,Gujarat,2021-01-08,False,27132.88,2023-05-27,iOS,Free
+5,meena_nair19,meena_nair19@gmail.com,24,Female,Pune,Maharashtra,2019-08-14,True,39150.17,2023-07-03,Android,Free
+6,ritu_tiwari42,ritu_tiwari42@gmail.com,35,Male,Jaipur,Rajasthan,2019-06-27,True,46590.26,2023-12-14,Web,Premium
+7,karan_reddy59,karan_reddy59@gmail.com,35,Male,Varanasi,Uttar Pradesh,2023-04-01,False,30463.51,2023-06-02,Web,Free
+8,pooja_sharma48,pooja_sharma48@gmail.com,28,Female,Thiruvananthapuram,Kerala,2019-02-27,True,49537.83,2023-11-11,Android,Premium
+9,deepak_malhotra80,deepak_malhotra80@gmail.com,37,Female,Ahmedabad,Gujarat,2020-03-01,False,33840.31,2023-10-22,iOS,Standard
+10,rohit_kumar6,rohit_kumar6@gmail.com,41,Male,Jaipur,Rajasthan,2020-03-09,False,21445.27,2023-06-04,Android,Free
+11,ritu_jain61,ritu_jain61@gmail.com,43,Male,Varanasi,Uttar Pradesh,2020-01-06,False,1543.93,2023-04-26,iOS,Standard
+12,rahul_singh9,rahul_singh9@gmail.com,33,Female,Delhi,Delhi,2021-01-13,False,21425.74,2023-08-13,Android,Premium
+13,divya_sharma15,divya_sharma15@gmail.com,40,Female,Bhubaneswar,Odisha,2021-07-06,True,33836.86,2023-01-02,iOS,Standard
+14,rahul_singh42,rahul_singh42@gmail.com,38,Female,Lucknow,Uttar Pradesh,2020-08-06,True,47736.73,2023-10-19,Web,Standard
+15,sneha_gupta58,sneha_gupta58@gmail.com,27,Female,Hyderabad,Telangana,2023-05-16,False,15934.11,2023-02-07,Web,Standard
+16,karan_gupta2,karan_gupta2@gmail.com,19,Female,Ahmedabad,Gujarat,2020-05-11,True,25707.18,2023-04-26,Android,Premium
+17,naveen_mishra98,naveen_mishra98@gmail.com,21,Male,Jaipur,Rajasthan,2022-06-16,False,48667.57,2023-09-03,iOS,Free
+18,karan_malhotra60,karan_malhotra60@gmail.com,42,Female,Indore,Madhya Pradesh,2019-09-26,False,28387.16,2024-01-08,Web,Standard
+19,asha_sharma56,asha_sharma56@gmail.com,33,Female,Kolkata,West Bengal,2022-09-30,True,37203.61,2023-07-27,iOS,Premium
+20,pooja_yadav95,pooja_yadav95@gmail.com,23,Male,Kochi,Kerala,2021-05-24,False,20952.13,2023-11-07,iOS,Free
+21,pooja_sharma87,pooja_sharma87@gmail.com,24,Male,Indore,Madhya Pradesh,2019-04-03,False,,2024-01-31,Web,Premium
+22,pooja_singh25,pooja_singh25@gmail.com,34,Male,Amritsar,Punjab,2022-07-20,True,36054.73,2024-01-16,Android,Premium
+23,pooja_patel20,pooja_patel20@gmail.com,35,Male,Varanasi,Uttar Pradesh,2021-03-07,False,17652.49,2023-01-18,Android,Premium
+24,anita_reddy5,anita_reddy5@gmail.com,21,Female,Bhubaneswar,Odisha,2023-07-26,False,2388.19,2023-08-04,Android,Standard
+25,rahul_mishra34,rahul_mishra34@gmail.com,42,Male,Noida,Uttar Pradesh,2021-10-31,False,2939.95,2023-03-24,Web,Free
+26,karan_singh78,karan_singh78@gmail.com,39,Female,Kochi,Kerala,2020-10-06,True,7672.05,2023-07-20,Web,Free
+27,meena_saxena39,meena_saxena39@gmail.com,18,Female,Kolkata,West Bengal,2021-08-13,True,45333.23,2024-02-24,Web,Premium
+28,neha_yadav4,neha_yadav4@gmail.com,34,Female,Lucknow,Uttar Pradesh,2019-04-19,False,18013.3,2023-09-18,Android,Free
+29,naveen_jain32,naveen_jain32@gmail.com,43,Male,Gurgaon,Haryana,2019-12-02,False,18327.51,2023-10-03,iOS,Premium
+30,priya_yadav58,priya_yadav58@gmail.com,31,Male,Amritsar,Punjab,2020-04-02,True,24130.87,2023-03-29,Web,Premium
+31,manish_kapoor82,manish_kapoor82@gmail.com,22,Female,Kochi,Kerala,2021-11-15,False,13647.68,2024-03-08,Android,Free
+32,meena_mehta48,meena_mehta48@gmail.com,26,Male,Kolkata,West Bengal,2020-02-06,True,46044.62,2023-09-05,iOS,Standard
+33,sumit_saxena97,sumit_saxena97@gmail.com,40,Male,Gurgaon,Haryana,2020-09-20,True,,2023-01-12,iOS,Premium
+34,aman_sharma76,aman_sharma76@gmail.com,25,Male,Amritsar,Punjab,2020-10-19,True,,2024-02-18,Web,Standard
+35,anita_saxena66,anita_saxena66@gmail.com,32,Male,Kochi,Kerala,2019-05-15,False,29142.11,2023-12-03,Android,Premium
+36,ritu_yadav68,ritu_yadav68@gmail.com,24,Female,Surat,Gujarat,2020-09-19,False,34333.27,2023-01-27,Web,Standard
+37,rohit_yadav32,rohit_yadav32@gmail.com,44,Male,Gurgaon,Haryana,2022-07-25,True,39124.17,2023-11-15,Web,Free
+38,kavita_verma70,kavita_verma70@gmail.com,31,Female,Ahmedabad,Gujarat,2019-12-22,True,21988.51,2023-07-28,iOS,Standard
+39,deepak_malhotra38,deepak_malhotra38@gmail.com,33,Male,Pune,Maharashtra,2024-02-16,False,47108.31,2023-12-31,Android,Free
+40,asha_mehta62,asha_mehta62@gmail.com,36,Male,Thiruvananthapuram,Kerala,2022-08-05,True,14006.5,2023-01-17,iOS,Standard
+41,divya_mehta64,divya_mehta64@gmail.com,30,Male,Jaipur,Rajasthan,2021-11-19,True,38058.99,2023-07-25,Android,Free
+42,naveen_tiwari14,naveen_tiwari14@gmail.com,44,Male,Chennai,Tamil Nadu,2020-08-05,True,25267.74,2023-06-30,Web,Standard
+43,rahul_bansal70,rahul_bansal70@gmail.com,28,Male,Gurgaon,Haryana,2020-03-15,False,23567.19,2024-03-30,Android,Premium
+44,anita_patel76,anita_patel76@gmail.com,33,Male,Jaipur,Rajasthan,2022-01-01,False,24905.03,2024-03-08,iOS,Free
+45,deepak_sharma24,,39,Female,Delhi,Delhi,2021-01-01,False,25986.99,2023-01-02,Web,Free
+46,sumit_menon77,sumit_menon77@gmail.com,42,Female,Delhi,Delhi,2021-07-17,True,28432.13,2023-01-25,iOS,Standard
+47,priya_kumar62,priya_kumar62@gmail.com,19,Female,Mumbai,Maharashtra,2020-01-19,False,29725.43,2024-03-29,iOS,Free
+48,divya_malhotra48,divya_malhotra48@gmail.com,30,Male,Chandigarh,Chandigarh,2021-09-19,True,,2023-06-30,Web,Free
+49,karan_jain2,karan_jain2@gmail.com,25,Female,Kolkata,West Bengal,2022-06-03,True,41889.98,2024-03-20,iOS,Standard
+50,anita_sharma84,anita_sharma84@gmail.com,27,Female,Pune,Maharashtra,2022-12-15,True,20728.55,2023-05-31,iOS,Premium
+51,sumit_singh81,sumit_singh81@gmail.com,24,Female,Chandigarh,Chandigarh,2021-08-14,False,41474.7,2024-02-18,iOS,Free
+52,manish_jain82,manish_jain82@gmail.com,28,Male,Jaipur,Rajasthan,2021-05-12,False,18419.71,2023-07-17,iOS,Standard
+53,meena_sharma89,meena_sharma89@gmail.com,24,Male,Hyderabad,Telangana,2022-05-21,False,26243.71,2023-09-09,Web,Standard
+54,vikas_reddy87,vikas_reddy87@gmail.com,22,Female,Chandigarh,Chandigarh,2021-09-21,False,2867.75,2023-02-09,Web,Standard
+55,sumit_patel70,sumit_patel70@gmail.com,23,Male,Gurgaon,Haryana,2021-11-03,True,48939.05,2023-04-15,Android,Premium
+56,karan_reddy28,karan_reddy28@gmail.com,40,Male,Chennai,Tamil Nadu,2023-03-07,False,,2023-11-16,iOS,Free
+57,anita_kapoor86,anita_kapoor86@gmail.com,30,Male,Noida,Uttar Pradesh,2023-11-14,True,16410.64,2023-10-07,Web,Standard
+58,asha_patel93,asha_patel93@gmail.com,27,Female,Amritsar,Punjab,2019-11-05,False,31335.1,2023-06-15,Android,Premium
+59,arjun_verma88,arjun_verma88@gmail.com,43,Female,Thiruvananthapuram,Kerala,2020-08-08,False,7560.69,2024-02-20,Web,Free
+60,deepak_patel96,deepak_patel96@gmail.com,29,Male,Chandigarh,Chandigarh,2023-04-12,True,33622.59,2023-11-23,Web,Free
+61,divya_singh6,divya_singh6@gmail.com,27,Male,Gurgaon,Haryana,2020-02-06,False,26713.97,2024-01-05,iOS,Standard
+62,rahul_reddy2,rahul_reddy2@gmail.com,27,Male,Jaipur,Rajasthan,2021-01-01,False,39741.63,2024-01-18,Android,Free
+63,vikas_mehta68,vikas_mehta68@gmail.com,41,Male,Jaipur,Rajasthan,2020-02-16,True,11832.27,2023-04-03,Android,Free
+64,deepak_gupta31,deepak_gupta31@gmail.com,33,Female,Kochi,Kerala,2019-07-01,True,14161.38,2023-12-17,Web,Premium
+65,arjun_kapoor67,arjun_kapoor67@gmail.com,24,Male,Amritsar,Punjab,2019-03-11,False,6265.58,2023-08-16,Android,Standard
+66,aman_kapoor6,aman_kapoor6@gmail.com,35,Male,Noida,Uttar Pradesh,2021-08-17,False,17334.08,2023-10-12,iOS,Free
+67,naveen_kumar98,naveen_kumar98@gmail.com,22,Female,Surat,Gujarat,2021-07-14,True,49301.25,2024-03-07,Web,Premium
+68,vikas_yadav61,vikas_yadav61@gmail.com,26,Male,Lucknow,Uttar Pradesh,2019-07-24,False,35216.17,2023-05-23,Android,Free
+69,anita_mehta6,anita_mehta6@gmail.com,28,Male,Kolkata,West Bengal,2020-03-07,False,30703.38,2023-09-27,Web,Standard
+70,pooja_yadav61,pooja_yadav61@gmail.com,33,Female,Jaipur,Rajasthan,2022-04-29,False,801.2,2023-04-23,Android,Premium
+71,manish_kapoor32,manish_kapoor32@gmail.com,34,Female,Indore,Madhya Pradesh,2023-07-31,False,9167.55,2023-11-02,Web,Standard
+72,meena_patel14,meena_patel14@gmail.com,28,Male,Lucknow,Uttar Pradesh,2020-03-04,True,38420.36,2023-05-30,iOS,Standard
+73,meena_saxena74,meena_saxena74@gmail.com,31,Female,Varanasi,Uttar Pradesh,2020-02-16,True,15878.84,2023-10-18,Web,Free
+74,sneha_verma50,sneha_verma50@gmail.com,31,Male,Chandigarh,Chandigarh,2022-12-09,True,18199.2,2024-01-01,iOS,Free
+75,priya_saxena95,priya_saxena95@gmail.com,44,Male,Ahmedabad,Gujarat,2023-10-01,False,22760.85,2023-06-19,iOS,Premium
+76,kavita_mehta25,kavita_mehta25@gmail.com,40,Female,Hyderabad,Telangana,2022-07-08,False,6125.83,2023-01-09,Android,Free
+77,sumit_reddy20,sumit_reddy20@gmail.com,45,Male,Kochi,Kerala,2019-03-21,True,4856.53,2023-11-15,iOS,Premium
+78,naveen_nair46,naveen_nair46@gmail.com,44,Male,Kochi,Kerala,2019-06-30,False,42978.04,2024-01-16,iOS,Premium
+79,manish_kapoor27,manish_kapoor27@gmail.com,32,Male,Indore,Madhya Pradesh,2020-04-09,False,20960.43,2023-12-29,iOS,Standard
+80,sneha_kumar74,sneha_kumar74@gmail.com,42,Female,Chandigarh,Chandigarh,2019-08-04,True,21417.26,2023-12-03,Web,Standard
+81,kavita_gupta19,kavita_gupta19@gmail.com,45,Female,Lucknow,Uttar Pradesh,2020-03-17,False,35993.36,2024-03-07,Android,Free
+82,arjun_yadav53,arjun_yadav53@gmail.com,33,Male,Jaipur,Rajasthan,2019-05-13,True,38984.26,2024-03-20,Android,Free
+83,vikas_kumar8,vikas_kumar8@gmail.com,42,Female,Kochi,Kerala,2022-03-28,False,48399.75,2023-03-19,Android,Standard
+84,priya_kumar2,priya_kumar2@gmail.com,21,Female,Gurgaon,Haryana,2021-10-07,True,41439.12,2024-03-22,iOS,Premium
+85,aman_menon73,aman_menon73@gmail.com,26,Female,Chennai,Tamil Nadu,2022-09-05,False,24797.4,2023-06-16,iOS,Standard
+86,meena_jain82,meena_jain82@gmail.com,25,Male,Bengaluru,Karnataka,2024-03-23,True,34244.19,2024-02-03,Android,Standard
+87,anita_saxena46,,43,Female,Pune,Maharashtra,2019-05-20,False,3174.88,2023-05-03,iOS,Premium
+88,aman_malhotra66,aman_malhotra66@gmail.com,26,Male,Varanasi,Uttar Pradesh,2019-04-01,False,39873.59,2023-12-16,iOS,Premium
+89,sneha_menon40,sneha_menon40@gmail.com,42,Female,Kolkata,West Bengal,2022-11-03,False,44491.87,2023-09-06,Web,Premium
+90,sneha_kapoor35,sneha_kapoor35@gmail.com,38,Male,Thiruvananthapuram,Kerala,2021-01-23,True,22354.73,2023-02-04,Web,Free
+91,anita_das91,anita_das91@gmail.com,34,Male,Amritsar,Punjab,2024-02-19,False,19927.21,2023-01-18,Android,Free
+92,ritu_jain56,ritu_jain56@gmail.com,26,Female,Amritsar,Punjab,2022-07-02,True,6981.42,2024-01-11,Android,Premium
+93,aman_bansal24,aman_bansal24@gmail.com,39,Female,Amritsar,Punjab,2020-02-03,False,,2023-12-31,Android,Premium
+94,karan_verma71,karan_verma71@gmail.com,34,Female,Delhi,Delhi,2022-06-10,False,14769.39,2023-10-26,Android,Free
+95,asha_menon14,asha_menon14@gmail.com,43,Male,Pune,Maharashtra,2021-06-18,False,6144.26,2024-03-18,iOS,Free
+96,sumit_das23,sumit_das23@gmail.com,27,Male,Mumbai,Maharashtra,2023-07-01,False,12657.52,2024-01-12,Android,Standard
+97,ritu_kapoor91,ritu_kapoor91@gmail.com,39,Male,Indore,Madhya Pradesh,2023-09-13,False,49102.78,2024-02-24,iOS,Free
+98,pooja_patel21,pooja_patel21@gmail.com,35,Female,Varanasi,Uttar Pradesh,2020-05-05,True,37520.59,2023-08-15,iOS,Standard
+99,karan_tiwari45,karan_tiwari45@gmail.com,24,Male,Pune,Maharashtra,2020-09-02,False,32226.71,2024-02-02,iOS,Free
+100,arjun_kapoor67,arjun_kapoor67@gmail.com,27,Female,Pune,Maharashtra,2019-01-26,True,,2024-02-26,Android,Free
