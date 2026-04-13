@@ -48,3 +48,10 @@ The Spark Web UI?
     -> Executors : Memory used / Cores used / Active Tasks
 -> If wwe run multiple sparks apps , ports changes : 4040,4041,4042,...
 
+Type of Transformations?
+-> Narrow transformations (Data will not shuffle across partitions)
+    Data which is in partiton complete it's operation in same partition data shouldn't show
+    df.filter(df.age>50)
+-> Wide transformations (Data will shuffle across partitions)
+    Data moves from one partition to another and network communication happen and it's slow
+    df.groupby('city').count()
