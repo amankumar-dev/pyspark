@@ -55,3 +55,10 @@ Type of Transformations?
 -> Wide transformations (Data will shuffle across partitions)
     Data moves from one partition to another and network communication happen and it's slow
     df.groupby('city').count()
+
+What is RDD?
+-> RDD stands for Resilient Distribute Dataset
+    -> Resilient: Fault tolerant (agar ek node fail ho gaya, data recover ho sakta hai)
+    -> Distribute: Data multiple machines / partitions me hota hai. 
+    -> Dataset: Collection of Data.
+-> RDD is a distributed collection of data that can be processed in parallel.
