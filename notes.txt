@@ -62,3 +62,20 @@ What is RDD?
     -> Distribute: Data multiple machines / partitions me hota hai. 
     -> Dataset: Collection of Data.
 -> RDD is a distributed collection of data that can be processed in parallel.
+
+Distinct and Filter transformations?
+-> Filter: Condition ke basis pr data store krta hai.
+-> Distinct: Unique value rakhta hai duplicate ko remove krta hai.
+
+Map and Flatmap transformations?
+-> Map: Takes element perform operation on it and return resultant data.
+-> Flatmap: Takes element perform operation on it and retunr resultant data but break down multiple data into single one. 
+
+SortBy and SortByKey ?
+-> SortBy: It allow to perform sorting on the basis of defined pattern. Only for key value pair.
+-> SortByKey: It sort the data on the basis of key. Only for key value pair.
+
+RDD Actions?
+It is a operation who actual computation trigger and result driver ko return krta hai ya output save krta hai.
+collect, count, first, take, reduce, saveAsTextFile, etc...
+
