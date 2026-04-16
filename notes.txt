@@ -1,3 +1,5 @@
+**Introduction of Spark and Pyspark**
+
 What is pyspark?
 It is the python API for apache spark. Which allow us to write data processing applications that execute on a distributed cluster parallely. 
 
@@ -56,6 +58,8 @@ Type of Transformations?
     Data moves from one partition to another and network communication happen and it's slow
     df.groupby('city').count()
 
+**RDD Crash Couse**
+
 What is RDD?
 -> RDD stands for Resilient Distribute Dataset
     -> Resilient: Fault tolerant (agar ek node fail ho gaya, data recover ho sakta hai)
@@ -79,3 +83,19 @@ RDD Actions?
 It is a operation who actual computation trigger and result driver ko return krta hai ya output save krta hai.
 collect, count, first, take, reduce, saveAsTextFile, etc...
 
+Union and UnionByName?
+-> Union: This combines two RDDs/DF into one without removing duplicate records.
+-> UnionByName: This will join tow dataframe together on the basisi of column name and if value is missing then fill null.
+
+**The Structured APIs**
+
+Structured API?
+It allow us to interact with data in a tabular form, similar to tables in relational databases. 
+-> Dataframe API: It is a distributed collection of data organized into named columns, similar to a table.
+-> Spark SQL: Allow us to query df using SQL syntax.
+-> Structured Streaming: It is used to process real time data using the df and SQL APIs.
+
+DF, Schema and DataTypes?
+-> DF: It is a distributed collection of data organized into rows and columns, similar to a table in a relational db.
+-> Schema: It defines the structured of dataframe.
+-> DataTypes: Allow us to get know which type of data stored in any column. 
