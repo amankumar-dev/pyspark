@@ -99,3 +99,6 @@ DF, Schema and DataTypes?
 -> DF: It is a distributed collection of data organized into rows and columns, similar to a table in a relational db.
 -> Schema: It defines the structured of dataframe.
 -> DataTypes: Allow us to get know which type of data stored in any column. 
+
+Reading a JSON?
+Allow us to read json in Dataframe.
