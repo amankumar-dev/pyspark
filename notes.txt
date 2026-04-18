@@ -103,4 +103,18 @@ DF, Schema and DataTypes?
 Reading a JSON?
 Allow us to read json in Dataframe.
 
-adsf
+Columns & Expression?
+-> Col: It is used for python expression
+-> Expr: SQL string based expression likhne ke liye use hota hai.
+
+Filter & Where condition?
+Both are same just create two method to make compatible for both user whether SQL or programming.
+
+Distinct, dropDuplicates and orderBy?
+-> Distinct: Full row duplicate htana.
+-> dropDuplicates: Column based duplicate htana.
+-> orderBy: Sorting(aesc/desc)
+
+Rows & Union?
+-> Row: ek record/ ek line/ ek entry
+-> Union: Join tow dataframe together, union remove duplicate and unionAll doesn't remove duplicates.
