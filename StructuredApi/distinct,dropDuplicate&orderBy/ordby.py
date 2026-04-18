@@ -9,4 +9,3 @@ df=spark.createDataFrame(
 
 df.orderBy('age').show()
 df.orderBy(col('age').desc()).show()
-
