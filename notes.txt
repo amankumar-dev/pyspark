@@ -118,3 +118,13 @@ Distinct, dropDuplicates and orderBy?
 Rows & Union?
 -> Row: ek record/ ek line/ ek entry
 -> Union: Join tow dataframe together, union remove duplicate and unionAll doesn't remove duplicates.
+
+Handling Bad and messed up data?
+-> 1) Handling Missing Values(Nulls)
+-> 2) Fixing Bad Datatypes
+-> 3) Handling invalid Values
+-> 4) Drop duplicates
+-> 5) Filtering Clean Data
+
+UDF?
+User defined function is the functionality which allow us to define our function but it's slower
