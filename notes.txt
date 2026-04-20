@@ -128,3 +128,6 @@ Handling Bad and messed up data?
 
 UDF?
 User defined function is the functionality which allow us to define our function but it's slower
+
+Aggregation?
+Multiple rows ko combine karke summary bnana
